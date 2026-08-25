@@ -60,4 +60,4 @@ Designed to manage the lifecycle of student projects from initial submission thr
 
 ## Contact
 
-[LinkedIn](linkedin.com/in/aminebouaiche) · [Email](mailto:bouaichepro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aminebouaiche/) · [Email](mailto:bouaichepro@gmail.com)
